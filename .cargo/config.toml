@@ -11,3 +11,5 @@ target = "thumbv7em-none-eabi"   # Cortex-M4 and Cortex-M7 (no FPU)
 [alias]
 rb = "run --bin"
 rrb = "run --release --bin"
+re = "run --example"
+rre = "run --release --example"
