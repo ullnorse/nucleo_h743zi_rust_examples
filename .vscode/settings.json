@@ -1,0 +1,9 @@
+{
+    "rust-analyzer.checkOnSave.allTargets": false,
+    "rust-analyzer.checkOnSave.extraArgs": [
+        "--target",
+        "--examples",
+        "--bin",
+        "thumbv7m-none-eabi"
+    ]
+}
