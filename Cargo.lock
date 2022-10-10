@@ -125,6 +125,7 @@ version = "0.1.0"
 dependencies = [
  "cortex-m",
  "cortex-m-rt",
+ "nb 1.0.0",
  "panic-itm",
  "stm32h7xx-hal",
 ]
